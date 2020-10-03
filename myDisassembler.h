@@ -6,4 +6,7 @@
 #include <iostream>
 #include <fstream>
 #include <iostream>
+#include <string>
 // TODO: Reference additional headers your program requires here.
+
+uint32_t stobin(string in);
